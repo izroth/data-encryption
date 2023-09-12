@@ -1,0 +1,26 @@
+{
+  "name": "data-encryption",
+  "version": "1.0.0",
+  "description": "used for encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/izroth/data-encryption.git"
+  },
+  "keywords": [
+    "encryption"
+  ],
+  "author": "lakhan sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izroth/data-encryption/issues"
+  },
+  "homepage": "https://github.com/izroth/data-encryption#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "link": "^1.5.1"
+  }
+}
