@@ -1,5 +1,5 @@
 {
-  "name": "data-encryption",
+  "name": "data-cypher",
   "version": "1.0.0",
   "description": "used for encryption",
   "main": "index.js",
