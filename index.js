@@ -23,4 +23,5 @@ const dataEncryption = (password) => {
     };
 };
 
+
 module.exports = dataEncryption;
