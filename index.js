@@ -1,5 +1,4 @@
 const crypto = require('crypto');
-
 const dataEncryption = (password) => {
     const algorithm = 'aes-256-ctr';
 
